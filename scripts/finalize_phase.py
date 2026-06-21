@@ -3,9 +3,18 @@ import tarfile
 import hashlib
 import datetime
 import shutil
+import subprocess
+import sys
 
 PROJECT_DIR = os.path.expanduser('~/Ryush')
 SNAPSHOT_DIR = os.path.join(PROJECT_DIR, 'snapshots')
+
+def check_auth():
+    """Run the auth check script before finalization."""
+    result = subprocess.run(['python3', os.path.join(PROJECT_DIR, 'scripts', 'check_auth.py')])
+    if result.returncode != 0:
+        print("Finalization halted: Auth check failed.")
+        sys.exit(1)
 
 def create_snapshot():
     timestamp = datetime.datetime.now().strftime('%Y%m%d_%H%M%S')
@@ -34,5 +43,6 @@ def update_readme():
     print("README updated.")
 
 if __name__ == "__main__":
+    check_auth()
     create_snapshot()
     update_readme()
