@@ -75,6 +75,15 @@ These requirements govern all development phases to ensure Ryush functions as ad
 | **Scalability** | `distributed_runner` (Phase 8), Git-based state synchronization |
 | **Intuitive UX & Democratization** | Rich-based Telemetry Dashboard, Phase-based Documentation |
 
+## Creativity Orchestration SOP
+
+To ensure maximum creative output while maintaining structural precision, all agentic mutations and prompts must follow these scaffolding protocols:
+
+1.  **Statistical Warm-up:** Use Z-Score filtering (Z > +2) on baseline prompts to identify high-variance, high-creative outliers.
+2.  **Polyphonic Feedback:** Engage the model in a 3-round self-questioning loop (Idea -> Challenge -> Iterate) to refine structural intent.
+3.  **Layered Injection:** Constrain prompts into skeletal, domain, goal, and style layers (max 40 tokens per layer).
+4.  **Imaginary Constraints:** Inject 'Bizarre' constraints (anthropomorphism, reduction, or novel framing) to break local minima in code mutation search spaces.
+
 ---
 
 The Genetic Lab facilitates recursive code evolution via structural diffs, A/B performance splits, and automated crawler validation.
