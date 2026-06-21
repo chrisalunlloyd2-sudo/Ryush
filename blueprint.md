@@ -197,3 +197,21 @@ Governs underlying source tree mutations via precise abstract syntax tree contro
    * JSON Telemetry Log Processor, Performance Profiler, Rich-based AST Visualization, System Notification Pipeline, Diagnostic Bundler.
  * **Phase 10: System Integration & Automation Runtime** (Steps 46-50)
    * Unified ALM Orchestrator, CLI Entry Points, Integration Test Suite, Production Config Templates, Orchestrator Loop.
+
+## 50-Step Epigenetic Mutation Masking Framework
+*Overlay static code bases with dynamic expression flags.*
+* **Phase 1: Expression Vectors & Histone Modeling (Steps 1-5)**
+  * 1: AST Token Methylation Engine.
+  * 2: Chromatin Compaction Maps (Context footprint reduction).
+  * 3: Dynamic Promoter Region Triggers (Z < -1.5 performance fallback).
+  * 4: Repressor-Protein Token Blocks (Safety barriers).
+  * 5: Environmental Stress-Response Matrix (Telemetry-driven rewrites).
+
+## 30-Step Axiomatix Structural Reconciliation Engine (ASRE)
+*Ingest blueprints, snapshots, and frameworks to purge redundancies and reconcile documentation with actual repository schemas.*
+* **Phase 1: Ingestion, Tokenization, and Deduplication (Steps 1-10)**
+  * Multi-Snapshot Stream Ingestor, Fuzzy Tokenizer, Levenshtein Scanner, TF-IDF Vectorization, Database Matrix Deduplicator, Intent Vocabulary Pruner, AST-to-Doc Signature Extraction, Lineage Graph Compiler, Redundancy Purge Committer, Verification Harness.
+* **Phase 2: Lapse Detection and Blueprint Gap Analysis (Steps 11-20)**
+  * Missing Link Identifier, Empty Phase Scanner, Drift Detector, Command Validator, Parameter Tracer, Timeline Sentinel, Ledger Auditor, Contextualizer, Alert Generator, Repair Compiler.
+* **Phase 3: Axiomatix Reconciliation Matrix & Code Review Loops (Steps 21-30)**
+  * Matrix Setup, Auto Check-off Loop, Review Profiler, Sync Tool, AST Review Hook, Schema Verifier, Orphan Sweep, Health Evaluator, Pruning Interface, Continuous Audit Runner.
