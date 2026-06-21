@@ -1,0 +1,4 @@
+{
+    "update aliens butt": "cd ~/Ryush && git push -u origin master",
+    "register": "python3 ~/project_registry.py"
+}
