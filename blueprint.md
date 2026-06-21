@@ -99,3 +99,34 @@ The Genetic Lab facilitates recursive code evolution via structural diffs, A/B p
 
 ### Phase 11: Deployment & Automated Execution Loop
 - **Steps 46-50:** Orchestrator script, CLI entry points, verification test suite, production configuration, and main loop initiation.
+## 50-Step Ryush ALM Architectural Framework
+
+### Phase 1: AST Architecture & Parsing Scaffolding (Steps 1-5)
+- **1-5:** Repository layout, LibCST initialization, Atomic Pydantic schema, Tokenized Compilation Harness, Inverse serialization layer.
+
+### Phase 2: Structural Diffing & Ancestry Mapping (Steps 6-10)
+- **6-10:** Asymmetric Diff Engine, Edit script algorithm (Zhang-Shasha), Lineage Wrapper, Scope-tracking Map, Semantic Signature Generator.
+
+### Phase 3: Advanced Transformation & Mutation Control (Steps 11-15)
+- **11-15:** Node Transformer Framework, Target Pattern Matcher, Scope Isolation Guard, Automated Imports Manager, Unified Mutation Pipeline.
+
+### Phase 4: Verification, Linting, & Safety Auditing (Steps 16-20)
+- **16-20:** AST Validator, Semantic Analysis (pyflakes), Execution Sandbox, Compliance Filter, Structural Regression Checks.
+
+### Phase 5: Version Management & Git Alignment (Steps 21-25)
+- **21-25:** GitPython Branch Tracker, Patch-to-Unified Converter, Semantic Merge Resolver, Semantic Release Analyzer, Automated Rollback.
+
+### Phase 6: ALM Tracking & Lifecycle Persistence (Steps 26-30)
+- **26-30:** Lifecycle SQLite Schema, Trajectory Data Capture, Transaction Controller, Mutation Analytics Dashboard, Orphan Garbage Collection.
+
+### Phase 7: Automated Test Scaffolding & Generation (Steps 31-35)
+- **31-35:** Automated Unit Test Generator, Pytest Suite Runner, Coverage Mapping Engine, Mock Injection Processor, Mutation Score Validator.
+
+### Phase 8: Distributed Execution & Scale Optimization (Steps 36-40)
+- **36-40:** Async Batch Task Runner, Process-pool Coordination, Memory-efficient Subtree Caching, Cluster Queue Connector, System Resource Throttler.
+
+### Phase 9: Telemetry, Logs, & Operational Diagnostics (Steps 41-45)
+- **41-45:** JSON Telemetry Log Processor, Performance Profiler, Rich-based AST Visualization, System Notification Pipeline, Diagnostic Bundler.
+
+### Phase 10: System Integration & Automation Runtime (Steps 46-50)
+- **46-50:** Unified ALM Orchestrator, CLI Entry Points, Integration Test Suite, Production Config Templates, Orchestrator Loop.
