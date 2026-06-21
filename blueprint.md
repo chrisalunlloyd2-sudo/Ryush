@@ -215,3 +215,30 @@ Governs underlying source tree mutations via precise abstract syntax tree contro
   * Missing Link Identifier, Empty Phase Scanner, Drift Detector, Command Validator, Parameter Tracer, Timeline Sentinel, Ledger Auditor, Contextualizer, Alert Generator, Repair Compiler.
 * **Phase 3: Axiomatix Reconciliation Matrix & Code Review Loops (Steps 21-30)**
   * Matrix Setup, Auto Check-off Loop, Review Profiler, Sync Tool, AST Review Hook, Schema Verifier, Orphan Sweep, Health Evaluator, Pruning Interface, Continuous Audit Runner.
+
+## 7. Neural-Symbolic Mutation Pruning (50 Steps)
+*Validates that mutations maintain physical logic invariants.*
+* **Phase 1: Symbolic Logic Scaffolding & Verification (Steps 1-5)**
+  * SAT-Solver Compiler, Hoare-Triples Engine, Invariant Extraction, Abstract Interpretation, Symbolic Boundary Sentinel.
+
+## 8. Async Cross-Process Task Bus & Memory Throttle (50 Steps)
+*Resilient worker engine for distributed mutation workloads.*
+* **Phase 1: Shared-Memory IPC Layout (Steps 1-10)**
+  * Zero-Copy Arrays, Atomic Bitmasks, Lock Orchestrator, POSIX Signal-Handling, Worker Throttler, Sandbox Spawner, JSON-RPC Bus, GC Ring, Spillway Router, Heartbeat Watchdog.
+
+## 9. Distributed Telemetry Mirroring & Affine Compression (50 Steps)
+*Real-time validation data arrays without I/O bottlenecks.*
+* **Phase 1: High-Frequency Stream Compression & Ring Buffers (Steps 1-10)**
+  * Sliding-Window Delta Compactor, Bitwise Telemetry Packing, Zero-Allocation Log Recycler.
+
+## 10. Automated Blueprint Generation & Self-Healing Repair (50 Steps)
+*Automated structural documentation and code repair.*
+* **Phase 4: Auto-Blueprint Generation & Self-Healing (Steps 31-40)**
+  * Lapse Synthesizer, Schema-Driven Model Generator, Semantic Docstring Injector, Fuzzy Merge Brancher, Structural Conflict Resolver, Prompt Contraction Pre-Processor, Test-Driven Mutation Selector, Impact Minimizer, Z-Score Outlier Tracker, State Committer.
+* **Phase 5: Verification & Continuous Audit (Steps 41-50)**
+  * ASRE Daemon, Registry Locks, Retry Arrays, Air-Gap Controller, Matrix CLI Visualizer, Snapshot Exporter, Sync Loop, Inspection Suite, Production Config, Orchestrator Entry.
+
+## 11. Hyper-Affine Caching Visualization (50 Steps)
+*Tracking KV-caches within attention sub-layers.*
+* **Phase 1: Context Tracking & Hyperplane Shifting (Steps 1-10)**
+  * Token Attention Profiler, Affine Translation Matrix, KV-Cache Layer Splitter, Z-Score Strain Monitor, Orthogonal Hyperplane Inverter, Continuous Shift Tracker, Soft-Mask Blending, Context Allocator, Core Transformer Interface, Axiomatix State Closer.
