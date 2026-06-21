@@ -1,0 +1,6 @@
+:root {
+  --neon-purple: #7d00ff;
+  --neon-cyan: #00f0ff;
+  --deep-black: #050505;
+}
+body { background: var(--deep-black); color: var(--neon-cyan); }
