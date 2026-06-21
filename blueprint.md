@@ -73,6 +73,7 @@ These requirements govern all development phases to ensure Ryush functions as ad
 | **Algorithmic Diversity** | `code_knowledge.db` (ML foundations), `LSTMNetNodes` |
 | **Flexibility/Customization** | AST Mutation Engine (Genetic Foundry mutation logic) |
 | **Scalability** | `distributed_runner` (Phase 8), Git-based state synchronization |
+| **Intuitive UX & Democratization** | Rich-based Telemetry Dashboard, Phase-based Documentation |
 
 ---
 
