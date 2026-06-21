@@ -115,23 +115,25 @@ To ensure maximum creative output while maintaining structural precision, all ag
 ## Framework Roadmaps
 ## Framework Roadmaps (Continued)
 
-### 4. Quantum-Affine State Geometry (50 Steps)
-*Designed to mathematically optimize context caching and prevent drift during recursive mutations across multi-thousand-line files.*
- * **Phase 1: Affine Vector Scaffolding & Metric Topology (Steps 1-5)**
-   * 1: Non-Euclidean Context Mapping (Vector distance detection).
-   * 2: KV-Cache Affine Transforms (Geometric shifting matrices).
-   * 3: Orthogonal Rotation Layers (Semantic hyperplane separation).
-   * 4: Syntactic Tension Fields (AST depth-based rigidity measurement).
-   * 5: Topological Invariant Ledger (Functional semantics guarantee).
+### 6. Sub-Kernel OS Boundary & Hardware-Level Hooks (50 Steps)
+*Establishes a bare-metal feedback architecture allowing Ryush to measure its own physical computing degradation during high-intensity evolutionary iterations.*
 
-### 5. Genetic Lab Framework Extensions (Phase 6.5)
-*Advanced subroutines to accelerate selection logic and prevent population death inside the sandbox.*
- * **Phase 6.5: Hyper-Mutation Recovery & Error Deflection (Steps 29a-29e)**
-   * 29a: Syntactic Ghosting (Mirror-layer error preservation).
-   * 29b: Z-Score Filter Injection (Dynamic performance-based volatility).
-   * 29c: Entropy-Based Decay Calibration (Telemetry-linked decay rate).
-   * 29d: Semantic Masking Shields (Immutable token preservation).
-   * 29e: Pareto-Frontier Sorting Arrays (Multi-objective optimization).
+ * **Phase 1: Bare-Metal Isolation & Telemetry Scaffolding (Steps 1-5)**
+   * 1: eBPF System Call Profiler (Network/Disk I/O mapping).
+   * 2: Core-Level Thermal Throttle Interceptor (Dynamic pool scaling).
+   * 3: Context-Switch Saturation Watchdog (Thrashing prevention).
+   * 4: Volatile RAM RAM-Disk Sandbox (Execution isolation).
+   * 5: Hardware Performance Counter Interface (IPC monitoring).
+
+### 7. Genetic Foundry GUI - Virtualized Render Pass (Phase 1.5)
+*Advanced subroutines to stabilize the UI runtime when rendering real-time genetic tree operations.*
+
+ * **Phase 1.5: Low-Latency Virtualized Render Pass (Steps 20a-20e)**
+   * 20a: Offscreen Canvas Ring Buffer (Double-buffered pipeline).
+   * 20b: GPU-Accelerated AST Tree Plotter (WebGL/WGPU animation).
+   * 20c: Delta-Driven GUI Frame Updates (Isolated file watchers).
+   * 20d: Tokenized Terminal Flow Throttle (Event aggregation).
+   * 20e: Cyberpunk Matrix Palette Injection (Dynamic CSS hot-swapping).
 
 Governs the methodical development of the GUI interface across 3 distinct phases.
  * **Phase 1: Foundations (Steps 1-100)**
