@@ -2,9 +2,54 @@
 # Ryush Blueprint
 
 Methodical approach to stability.
-
 ## Registry Schemas
-- `project_registry.db`:\n  `file_registry(id, filepath, language, project, sector, area, use_case)`
+
+### code_knowledge.db
+```sql
+CREATE TABLE code_knowledge(
+    id INTEGER PRIMARY KEY AUTOINCREMENT,
+    title TEXT NOT NULL,
+    code TEXT NOT NULL,
+    performatives TEXT NOT NULL,
+    weight INTEGER DEFAULT 1,
+    last_accessed TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
+    created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP
+);
+```
+
+### downloads.db
+```sql
+CREATE TABLE downloads(
+    id INTEGER PRIMARY KEY AUTOINCREMENT,
+    package_name TEXT UNIQUE,
+    status TEXT,
+    last_attempt TIMESTAMP DEFAULT CURRENT_TIMESTAMP
+);
+```
+
+### hash_ledger.db
+```sql
+CREATE TABLE ledger(
+    hash TEXT PRIMARY KEY,
+    filename TEXT,
+    timestamp TIMESTAMP DEFAULT CURRENT_TIMESTAMP
+);
+```
+
+### project_registry.db
+```sql
+CREATE TABLE file_registry(
+    id INTEGER PRIMARY KEY AUTOINCREMENT,
+    filepath TEXT UNIQUE,
+    language TEXT,
+    project TEXT,
+    sector TEXT,
+    area TEXT,
+    use_case TEXT,
+    last_updated TIMESTAMP DEFAULT CURRENT_TIMESTAMP
+);
+```
+
 
 ## Intent Vocabulary (run() mappings)
 | Intent | Command |
