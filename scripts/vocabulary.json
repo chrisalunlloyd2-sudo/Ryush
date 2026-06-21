@@ -6,5 +6,6 @@
     "status": "cd ~/Ryush && git status",
     "log event": "python3 ~/Ryush/scripts/log_manager.py",
     "archive old": "python3 ~/sustain_and_init.py",
-    "sync": "cd ~/Ryush && git pull origin master && git push origin master"
+    "sync": "cd ~/Ryush && git pull origin master && git push origin master",
+    "finish phase": "python3 ~/Ryush/scripts/finalize_phase.py && cd ~/Ryush && git add . && git commit -m \"Phase Finalization\" && git push origin master"
 }
