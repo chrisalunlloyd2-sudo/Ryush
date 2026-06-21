@@ -63,7 +63,18 @@ CREATE TABLE file_registry(
 | archive old | python3 ~/sustain_and_init.py |
 | sync | cd ~/Ryush && git pull && git push |
 
-## 50-Step Genetic Lab Framework
+## Core Architectural Principles
+
+These requirements govern all development phases to ensure Ryush functions as advanced predictive analytics software.
+
+| Requirement | Ryush Component Mapping |
+| :--- | :--- |
+| **Robust Data Handling** | `project_registry.db`, `sustain_and_init.py` (Data Pipeline) |
+| **Algorithmic Diversity** | `code_knowledge.db` (ML foundations), `LSTMNetNodes` |
+| **Flexibility/Customization** | AST Mutation Engine (Genetic Foundry mutation logic) |
+| **Scalability** | `distributed_runner` (Phase 8), Git-based state synchronization |
+
+---
 
 The Genetic Lab facilitates recursive code evolution via structural diffs, A/B performance splits, and automated crawler validation.
 
