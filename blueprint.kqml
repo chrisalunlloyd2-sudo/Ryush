@@ -1,0 +1,6 @@
+(blueprint
+  (registry (databases knowledge downloads ledger registry))
+  (roadmap (total 900) (phase 1 foundations) (phase 2 recursive) (phase 3 transcendence))
+  (nodes (bm25 3) (lstm_cache 1) (symbolic_exec 1))
+  (sops (alm_cycle) (genetic_crossover) (telemetry_hook))
+)
