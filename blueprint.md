@@ -62,3 +62,25 @@ CREATE TABLE file_registry(
 | log event | python3 ~/Ryush/scripts/log_manager.py |
 | archive old | python3 ~/sustain_and_init.py |
 | sync | cd ~/Ryush && git pull && git push |
+
+## 300-Step Genetic Foundry GUI Roadmap
+
+This roadmap governs the methodical development of the GUI, divided into 3 Phases.
+
+### Phase 1: Foundations (Steps 1-100)
+- **1-20:** UI Theme Engine & Cyberpunk Design Primitives.
+- **21-50:** Base Layout (Notes, Projects, Chat, Telemetry, Foundry tabs).
+- **51-80:** Core Component System (Java/Python templates).
+- **81-100:** Registry/Git Integration UI Hooks.
+
+### Phase 2: Agentic Orchestration (Steps 101-200)
+- **101-130:** Real-time Telemetry Dashboard (System/Termux hooks).
+- **131-160:** RAG Note-Taking AI & Transcriber Integration.
+- **161-180:** Project/GitHub Mirroring and Sync UI.
+- **181-200:** Agentic Diff Review Interface.
+
+### Phase 3: Transcendence (Steps 201-300)
+- **201-230:** Genetic Foundry Visualization (Axiomatix Topology).
+- **231-260:** A/B Testing Lab Control Surface.
+- **261-280:** Recursive Training Loop & KV-Affine Caching Visualization.
+- **281-300:** Behavioral Monitoring & Final System Integration.
